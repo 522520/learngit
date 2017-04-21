@@ -1,0 +1,16 @@
+1.运行keygen目录的crack.bat 
+
+a.输入Usercode: 任意字母或者数字
+b.选择Blue
+c.点击SystemId（点两次才会生成）
+d.点击Active
+e.点击菜单栏->Tools->2.saveProperties
+
+
+2. 用plugins目录覆盖myeclipse2016安装目录下的 plugins
+3. 重启myeclipse2016
+
+
+参考：
+http://blog.csdn.net/finish_dream/article/details/52234757
+http://note.youdao.com/share/?id=a4537d434546d0565a86bbf6ff4ab0ee&type=note#/
